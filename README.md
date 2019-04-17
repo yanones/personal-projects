@@ -1,4 +1,4 @@
-# Employee Attrition
+# Employee Attrition Prediction
 
 Find out the leading drivers of Employee Attrition. Track and analyse employee satisfaction and Retain valuable employees.
 
